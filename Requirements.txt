@@ -1,1 +1,6 @@
+This project focuses on churn analysis for a telecom firm. 
+
+Project Target - 
+To perform ETL process in a database and creating view which can be later connected as datasource in Power BI to utlize the Customer Data.
+
 
