@@ -6,6 +6,6 @@ This project demonstrates an end-to-end analysis workflow of customer data in a 
 
 **Data Visualization using Power BI** - Created dashboard pages to visualise different charts to show necessary details about customer data.
 
-**Date created** - The project was completed on 15.10.2025.
+**Date created** - The project was completed on 15.10.2024.
 
 **Dataset** - The project uses data files from Kaggle (https://www.kaggle.com/datasets/blastchar/telco-customer-churn) customers.csv
